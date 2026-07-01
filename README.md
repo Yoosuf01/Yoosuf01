@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/TypeScript-Core-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Core-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CRM-Customization-0B5CAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
@@ -34,7 +35,8 @@ My experience includes:
 - Selenium and BeautifulSoup automation
 - scraping, extraction, and data feeding pipelines
 - CI/CD pipelines and release workflows
-- cloud-based delivery on AWS, Azure, and GCP
+- cloud-based delivery on AWS, Azure, GCP, and Cloudflare
+- Cloudflare Workers, Pages, and DNS management
 - multi-tenant systems with role-based access
 - real-time product flows
 - backend and API orchestration
@@ -62,7 +64,7 @@ My experience includes:
 **Mobile:** React Native, Expo  
 **Architecture:** Multi-tenancy, role-based access, cloud-connected product systems  
 **Automation:** Selenium, BeautifulSoup  
-**DevOps / Cloud:** CI/CD, AWS, Azure, GCP  
+**DevOps / Cloud:** CI/CD, AWS, Azure, GCP, Cloudflare  
 **Integrations:** Zoho, CRM platforms, WordPress, APIs, webhooks  
 **Other:** HTML, CSS, PL/pgSQL
 
@@ -92,6 +94,7 @@ My experience includes:
 - API and system integrations
 - multi-tenant architecture
 - CI/CD and cloud deployment
+- Cloudflare Workers, Pages, and edge infrastructure
 - e-commerce and business software
 
 ---
