@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build software for business operations, internal workflows, and customer-facing products — with a focus on systems that are practical, maintainable, and production-ready.
+  I build software for business operations, internal workflows and customer-facing products with a focus on systems that are practical, maintainable and production-ready.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## Profile
 
-I work across web applications, mobile applications, CRM systems, automation, and API integrations.
+I work across web applications, mobile applications, CRM systems, automation and API integrations.
 
 My experience includes:
 - full-stack application development
@@ -35,8 +35,8 @@ My experience includes:
 - Selenium and BeautifulSoup automation
 - scraping, extraction, and data feeding pipelines
 - CI/CD pipelines and release workflows
-- cloud-based delivery on AWS, Azure, GCP, and Cloudflare
-- Cloudflare Workers, Pages, and DNS management
+- cloud-based delivery on AWS, Azure, GCP and Cloudflare
+- Cloudflare Workers, Pages and DNS management
 - multi-tenant systems with role-based access
 - real-time product flows
 - backend and API orchestration
@@ -49,9 +49,9 @@ My experience includes:
 - application layers that are maintainable and production-oriented
 - business workflows translated into software
 - API integrations across internal and third-party systems
-- dashboards, admin portals, and operational tools
+- dashboards, admin portals and operational tools
 - automation for repetitive or data-heavy processes
-- systems designed for tenancy, isolation, and role control
+- systems designed for tenancy, isolation and role control
 - mobile and web experiences that fit the same product model
 - cloud-connected applications with practical release workflows
 
@@ -60,7 +60,7 @@ My experience includes:
 ## Technical scope
 
 **Primary:** TypeScript, Python, JavaScript  
-**Web:** Next.js, React, Supabase, Express, PostgreSQL  
+**Web:** Next.js, React, Supabase, Express, PostgreSQL, MongoDB  
 **Mobile:** React Native, Expo  
 **Architecture:** Multi-tenancy, role-based access, cloud-connected product systems  
 **Automation:** Selenium, BeautifulSoup  
@@ -94,7 +94,7 @@ My experience includes:
 - API and system integrations
 - multi-tenant architecture
 - CI/CD and cloud deployment
-- Cloudflare Workers, Pages, and edge infrastructure
+- Cloudflare Workers, Pages and edge infrastructure
 - e-commerce and business software
 
 ---
