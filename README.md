@@ -39,5 +39,5 @@ I focus on building systems that are practical, maintainable and resilient under
 <br>
 
 <p align="center">
-  <em>View my full case studies, field notes, and architecture breakdowns at <a href="https://yoosufhusain.vercel.app">yoosufhusain.vercel.app</a></em>
+  <em>View my full case studies, field notes and architecture breakdowns at <a href="https://yoosufhusain.vercel.app">yoosufhusain.vercel.app</a></em>
 </p>
