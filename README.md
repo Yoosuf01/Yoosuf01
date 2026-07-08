@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build software for business operations, internal workflows, and customer-facing products. My focus is on practical architecture, reliable execution, and systems that hold up in production.
+  I build software for business operations, internal workflows and customer-facing products. My focus is on practical architecture, reliable execution and systems that hold up in production.
 </p>
 
 <p align="center">
@@ -28,13 +28,13 @@
 ---
 
 ### What I Build
-- **Multi-Tenant Architecture:** Row-level security, tenant-isolated data models, and permission-aware systems.
-- **Backend Orchestration:** APIs, pipelines, background jobs, and webhook-driven workflows.
-- **Internal Tools & CRM:** Zoho customization, admin dashboards, and business workflow automation.
-- **Full-Stack Delivery:** End-to-end applications across Next.js, React Native, Node.js, and PostgreSQL.
+- **Multi-Tenant Architecture:** Row-level security, tenant-isolated data models and permission-aware systems.
+- **Backend Orchestration:** APIs, pipelines, background jobs and webhook-driven workflows.
+- **Internal Tools & CRM:** Zoho customization, admin dashboards and business workflow automation.
+- **Full-Stack Delivery:** End-to-end applications across Next.js, React Native, Node.js and PostgreSQL.
 
 ### My Approach
-I focus on building systems that are practical, maintainable, and resilient under real business constraints. The goal is not just shipping features, but making the software reliable enough to scale with the business.
+I focus on building systems that are practical, maintainable and resilient under real business constraints. The goal is not just shipping features, but making the software reliable enough to scale with the business.
 
 <br>
 
