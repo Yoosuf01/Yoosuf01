@@ -1,104 +1,43 @@
 <h1 align="center">Yoosuf Husain</h1>
 
 <p align="center">
-  Full-stack engineer · CRM customization · Mobile development · Automation · Integrations
+  <strong>Full-Stack Engineer · Delivering enterprise-grade systems with startup speed</strong>
 </p>
 
 <p align="center">
-  I build software for business operations, internal workflows and customer-facing products with a focus on systems that are practical, maintainable and production-ready.
+  I build software for business operations, internal workflows, and customer-facing products. My focus is on practical architecture, reliable execution, and systems that hold up in production.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yoosuf01">
-    <img src="https://img.shields.io/badge/GitHub-Yoosuf01-181717?style=for-the-badge&logo=github" />
+  <a href="https://yoosufhusain.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-yoosufhusain.vercel.app-181717?style=for-the-badge&logo=vercel" />
   </a>
+  <a href="https://www.linkedin.com/in/yoosufhusain/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-Core-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Core-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Core-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRM-Customization-0B5CAD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Architecture-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRM_Customization-Zoho-0B5CAD?style=for-the-badge" />
 </p>
 
 ---
 
-## Profile
+### What I Build
+- **Multi-Tenant Architecture:** Row-level security, tenant-isolated data models, and permission-aware systems.
+- **Backend Orchestration:** APIs, pipelines, background jobs, and webhook-driven workflows.
+- **Internal Tools & CRM:** Zoho customization, admin dashboards, and business workflow automation.
+- **Full-Stack Delivery:** End-to-end applications across Next.js, React Native, Node.js, and PostgreSQL.
 
-I work across web applications, mobile applications, CRM systems, automation and API integrations.
+### My Approach
+I focus on building systems that are practical, maintainable, and resilient under real business constraints. The goal is not just shipping features, but making the software reliable enough to scale with the business.
 
-My experience includes:
-- full-stack application development
-- mobile app development
-- CRM customization for enterprise use cases
-- Zoho automation and platform tailoring
-- WordPress development and integration
-- AI-based document analysis and scoring systems
-- startup evaluation / perk allocation platforms
-- Selenium and BeautifulSoup automation
-- scraping, extraction, and data feeding pipelines
-- CI/CD pipelines and release workflows
-- cloud-based delivery on AWS, Azure, GCP and Cloudflare
-- Cloudflare Workers, Pages and DNS management
-- multi-tenant systems with role-based access
-- real-time product flows
-- backend and API orchestration
-- e-commerce and marketplace systems
-
----
-
-## What I deliver
-
-- application layers that are maintainable and production-oriented
-- business workflows translated into software
-- API integrations across internal and third-party systems
-- dashboards, admin portals and operational tools
-- automation for repetitive or data-heavy processes
-- systems designed for tenancy, isolation and role control
-- mobile and web experiences that fit the same product model
-- cloud-connected applications with practical release workflows
-
----
-
-## Technical scope
-
-**Primary:** TypeScript, Python, JavaScript  
-**Web:** Next.js, React, Supabase, Express, PostgreSQL, MongoDB  
-**Mobile:** React Native, Expo  
-**Architecture:** Multi-tenancy, role-based access, cloud-connected product systems  
-**Automation:** Selenium, BeautifulSoup  
-**DevOps / Cloud:** CI/CD, AWS, Azure, GCP, Cloudflare  
-**Integrations:** Zoho, CRM platforms, WordPress, APIs, webhooks  
-**Other:** HTML, CSS, PL/pgSQL
-
----
-
-## Common problem areas
-
-- healthcare workflows
-- education management
-- mobility and operations
-- commerce and marketplaces
-- CRM and sales operations
-- internal tools
-- automation-heavy pipelines
-- tenant-isolated applications
-- data-heavy business workflows
-
----
-
-## Current focus
-
-- full-stack product engineering
-- mobile application development
-- CRM and Zoho customization
-- automation and scraping
-- AI-assisted document workflows
-- API and system integrations
-- multi-tenant architecture
-- CI/CD and cloud deployment
-- Cloudflare Workers, Pages and edge infrastructure
-- e-commerce and business software
-
----
+<br>
 
 <p align="center">
-  Building software that fits how businesses actually work.
+  <em>View my full case studies, field notes, and architecture breakdowns at <a href="https://yoosufhusain.vercel.app">yoosufhusain.vercel.app</a></em>
 </p>
